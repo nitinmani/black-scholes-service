@@ -6,7 +6,7 @@ A C++ microservice for financial option calculations using the Black-Scholes mod
 
 - **Regular Call Options**: Standard Black-Scholes call option pricing
 - **Binary (Digital) Call Options**: Binary call option pricing
-- **Random Expiration Call Options**: Options with gamma-distributed expiration
+- **Random Expiration Call Options**: Options with random expiration
 - **Random Expiration Binary Call Options**: Binary options with random expiration
 
 ## Prerequisites
